@@ -1,0 +1,105 @@
+novel.html
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JANJI YANG DIPINJAM - Bab 1</title>
+<style>
+    body {
+        background-color: #F5F1E8;
+        background-image: url('https://www.transparenttextures.com/patterns/paper-fibers.png');
+        font-family: 'Garamond', 'Georgia', serif;
+        color: #3a2f2f;
+        line-height: 1.8;
+        margin: 0;
+        padding: 40px 20px;
+    }
+    .buku {
+        max-width: 650px;
+        margin: auto;
+        background-color: #fffdf7;
+        padding: 60px 50px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+        border: 1px solid #e0dccc;
+    }
+    h1 {
+        text-align: center;
+        font-size: 28px;
+        letter-spacing: 2px;
+        margin-bottom: 5px;
+    }
+    h2 {
+        text-align: center;
+        font-size: 18px;
+        font-weight: normal;
+        margin-bottom: 40px;
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 20px;
+    }
+    h3 {
+        text-align: center;
+        font-size: 20px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    p {
+        text-indent: 2em;
+        font-size: 17px;
+        text-align: justify;
+        margin-bottom: 1em;
+    }
+    .quote {
+        font-style: italic;
+        margin: 20px 40px;
+        text-indent: 0;
+    }
+    .penutup {
+        text-align: center;
+        margin-top: 50px;
+        font-style: italic;
+    }
+</style>
+</head>
+<body>
+    <div class="buku">
+        <h1>JANJI YANG DIPINJAM</h1>
+        <h2>Oleh: @kamu</h2>
+        
+        <h3>BAB 1: ANAK PENDIEM DI KELAS 5A</h3>
+
+        <p>Bunyi bel sekolah SD Negeri 02 Lumajang jam 07.00 selalu sama. Berisik, sumbang, dan bikin telinga pengang.</p>
+
+        <p>Tapi buat Arga Pratama, bel itu cuma alarm. Alarm buat liat Alya.</p>
+
+        <p>Alya. Anak perempuan dengan dua kuncir kuda dan rok biru yang selalu kependekan satu jari. Dia duduk di bangku paling depan, pas di depan Arga.</p>
+        
+        <p>Arga bukan anak pinter. Bukan anak bandel. Dia anak pendiem.</p>
+
+        <p>Tugasnya cuma satu selama 6 tahun di SD: jagain Alya.</p>
+
+        <p>Pas upacara Senin, Alya jatuh pingsan karena gak sarapan. Yang pertama ninggalin barisan bukan gurunya. Arga. Dia lari, nabrak dua baris, cuma buat ngasih Alya botol minumnya.</p>
+
+        <p>Pas ulangan Matematika, Alya nangis karena gak bisa ngerjain nomor 5. Arga nyontekkin jawabannya pelan-pelan, pake ujung pensil. Risikonya dihukum, tapi dia bodo amat.</p>
+
+        <p class="quote">"Kenapa kamu baik banget sih, Ga?" tanya Alya suatu hari, pas pulang sekolah.</p>
+        <p class="quote">Arga cuma garuk kepala. Gak bisa jawab.</p>
+        <p class="quote">Karena gimana cara jelasin ke anak SD kalau jantungnya udah lari duluan, padahal kakinya masih jalan pelan?</p>
+
+        <p>Hari itu, di bawah pohon mangga belakang kelas, Arga ngomong hal paling berani seumur hidup kelas 5-nya.</p>
+
+        <p class="quote">"Al... nanti kalo kita udah gede, kita nikah ya?"</p>
+
+        <p>Alya ketawa. Ketawanya renyah. <br>
+        "Iyaa, asal kamu traktirin aku cilok seumur hidup."</p>
+
+        <p>Arga manggut serius banget. Seolah dia baru aja teken kontrak seumur hidup.</p>
+
+        <p>Dia gak tau. Janji cilok itu, 15 tahun kemudian bakal jadi janji nikah beneran.</p>
+
+        <p>Dan juga bakal jadi janji yang... dipinjam orang lain.</p>
+
+        <p class="penutup">Bersambung ke Bab 2: SMP, Surat Cinta yang Gak Pernah Dikirim</p>
+    </div>
+</body>
+</html>
